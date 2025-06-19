@@ -1,10 +1,11 @@
 
 ## [getwebrank](#get_web_rank1)
 
-## [Traffic and Rank history ](#Traffic_and_Rank_history )
+## [Traffic and Rank history](#Traffic_and_Rank_history )
 
 
 <a name="get_web_rank1"></a>
+## getwebrank
 get web rank
 
 ![image](rank2traffic.hualesoft.cn-img.png)
@@ -12,6 +13,7 @@ get web rank
 https://rank2traffic.hualesoft.cn/
 
 <a name="Traffic_and_Rank_history"></a>
+## Traffic and Rank history
 Traffic and Rank history 
 By querying the website ranking changes over the years through web gateways (such as the MyRank2Traffic platform, URL: https://rank2traffic.hualesoft.cn/), we can systematically analyze the website operation dynamics of competitors and provide key data support for optimizing our own website strategies. The following explanations are presented from three aspects: core value, operational logic, and application scenarios:
 I. Core Value: Data-Driven Multidimensional Competitive Analysis
